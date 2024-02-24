@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Knight-Thon.github.io/LDD",
+  "homepage": "http://Knight-Thon.github.io/TimberCreek-LDD/",
   "name": "undm-dashboard",
   "version": "0.1.0",
   "private": true,
@@ -42,6 +42,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh": "^2.8.9",
+    "gh-pages": "^3.2.3",
+    "pages": "^0.0.16"
   }
 }

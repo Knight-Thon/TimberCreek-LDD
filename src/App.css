@@ -55,7 +55,7 @@
 
 th {
   font-size: xx-large;
-  background-color: rgba(166,219,244,.5);
+  background-color: rgba(180,15,15 1);
   border-radius: 5px;
   padding: 10px;
 }
@@ -106,7 +106,7 @@ span {
   left: 50%;
   top: 50%;
   z-index: 2;
-  background-image: url(../public/BalloonLogo.png);
+  background-image: url(../public/Popup.png);
   background-size: cover;
   opacity: 1;
   transition: opacity 3s;
